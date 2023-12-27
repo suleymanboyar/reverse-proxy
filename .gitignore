@@ -1,0 +1,6 @@
+*.o
+proxy
+anyReceiver
+binSender
+proxy
+xmlSender
